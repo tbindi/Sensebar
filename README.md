@@ -27,3 +27,7 @@ Thank you.
 1. If you want the default mapping just copy Sample/ folder and paste it to Arduino/ folder.
 2. Compile and Upload Sample.ino to the Arduino Leonardo.
 3. Pull up a game, connect Sensebar to that machine and you can start playing it.
+
+
+##Video
+https://youtu.be/D37Ci9kNWIc
